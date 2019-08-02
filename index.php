@@ -37,7 +37,7 @@
     }elseif ($c < 60) {
         echo '<h1 style="color:purple">'.$c.'</h1>';
     }else {
-        echo "Maap Nomor Maksimal Masukan Hanya Samapai 60!";
+        echo "Nomor Maksimal Masukan Hanya Samapai 60!";
     }
     
     ?>
