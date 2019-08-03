@@ -31,7 +31,7 @@
     }elseif ($c < 45) {
         echo '<h1 style="color:black">'.$c.'</h1>';
     }elseif ($c < 50) {
-        echo '<h1 style="color:charcoal">'.$c.'</h1>';
+        echo '<h1 style="color:orange">'.$c.'</h1>';
     }elseif ($c < 55) {
         echo '<h1 style="color:pink">'.$c.'</h1>';
     }elseif ($c < 60) {
